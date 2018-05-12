@@ -42,6 +42,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oscar_Wilde
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42704#Salom-A-Tragedy-in-One-Act
 gutenberg_issued: '2013-05-12'
 gutenberg_type: Text
 identifiers:
